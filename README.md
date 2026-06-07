@@ -1,5 +1,5 @@
 # AI Daily Business Report Generator
-### The Label AI Studios PH
+### Rana Mahmod
 
 Reads your Google Sheets data every morning, analyzes it with Groq AI, writes a clean business report, saves it to Google Docs, and emails it to you — automatically.
 
@@ -99,7 +99,7 @@ First run opens browser for Google auth (once only).
 **Output:**
 ```
 ✅ DONE!
-   Report: Daily Report — The Label AI Studios PH — 2026-05-30
+   Report: Daily Report — Rana Mahmod — 2026-05-30
    Doc:    https://docs.google.com/document/d/...
    Email:  Sent to your@gmail.com
 ```
@@ -132,5 +132,5 @@ label-ai-daily-report/
 
 ---
 
-## Built by The Label AI Studios PH
+## Built by Rana Mahmod
 Free AI systems for businesses. Filipino-built. 🇵🇭
